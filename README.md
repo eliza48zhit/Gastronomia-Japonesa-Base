@@ -9,6 +9,7 @@ Contract Address: 0xbea6510cb6f3c4f50bdb6ff8e74f37d48dc104ab
 
 Explorer Link: [Ver en Basescan
 ](https://basescan.org/address/0xbea6510cb6f3c4f50bdb6ff8e74f37d48dc104ab#code)
+
 🛠️ Detalles Técnicos
 
 Este contrato implementa una gestión de datos de alto nivel:
